@@ -95,7 +95,7 @@ article{
 
 
 section{
-    width: 66.67%;
+    width: 100%;
     margin-bottom: 120px;
     display: flex;
     padding-top: 20px;
@@ -106,12 +106,14 @@ section .number{
     border-right: 2px solid #24759d;
     padding-right: 40px;
     font-size:30px;
+    margin-left:auto;
 }
 
 section .details{
-    width: 100%;
+    width: 66.67%;
     margin-left: 20px;
     text-align: left;
+    margin-right:auto;
 }
 
 .details h1{
